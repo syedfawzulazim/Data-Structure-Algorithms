@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1594766115 source:e:\study\things\codes\c++\p2\datastructure\tree\iterative_traversal\main.cpp
+	<iostream>
+	"Queue.h"
+	"Stack.h"
+
+1594736898 e:\study\things\codes\c++\p2\datastructure\tree\iterative_traversal\stack.h
+	"Queue.h"
+
+1594766010 source:e:\study\things\codes\c++\p2\datastructure\tree\iterative_traversal\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1594724690 e:\study\things\codes\c++\p2\datastructure\tree\iterative_traversal\queue.h
+
+1594736486 source:e:\study\things\codes\c++\p2\datastructure\tree\iterative_traversal\queue.cpp
+	"Queue.h"
+	<iostream>
+

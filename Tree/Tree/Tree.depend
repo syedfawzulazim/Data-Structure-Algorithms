@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1594333346 source:e:\study\things\codes\c++\p2\datastructure\tree\tree\main.cpp
+	<iostream>
+	"Queue.h"
+
+1594331521 e:\study\things\codes\c++\p2\datastructure\tree\tree\queue.h
+
+1594331619 source:e:\study\things\codes\c++\p2\datastructure\tree\tree\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1594330175 source:e:\study\things\codes\c++\p2\datastructure\tree\tree\node.cpp
+	"Node.h"
+
+1594330234 e:\study\things\codes\c++\p2\datastructure\tree\tree\node.h
+

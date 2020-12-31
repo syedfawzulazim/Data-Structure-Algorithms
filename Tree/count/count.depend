@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1594677286 source:e:\study\things\codes\c++\p2\datastructure\tree\count\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1594677311 e:\study\things\codes\c++\p2\datastructure\tree\count\queue.h
+
+1594679560 source:e:\study\things\codes\c++\p2\datastructure\tree\count\main.cpp
+	<iostream>
+	"Queue.h"
+
